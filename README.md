@@ -3,7 +3,7 @@
 # Movie-Vibes-Updates
 Progress log for Movie Vibes, a full-stack media tracking application with retro TV UI (FastAPI + React + PostgreSQL).
 
-## frontend updates
+## front-end info
 <p align="center">
 <img src ="tv_console.png" alt="Outer TV Shell" width="300" height="250"/> <img src ="screen.png" alt="Inner Screen" width="300" height="250"/>
 </p>
@@ -20,6 +20,7 @@ TV and Screen Details: Designed on Figma and exported as SVG.
 Design Details: Mid-Century Modern TV design.
 </p>
 
+## back-end info
 
 ## current friction points
 <p align="center">
