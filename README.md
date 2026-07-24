@@ -1,3 +1,5 @@
+<!-- add backend updates and friction points, preview README by (cmd + k) then v -->
+
 # Movie-Vibes-Updates
 Progress log for Movie Vibes, a full-stack media tracking application with retro TV UI (FastAPI + React + PostgreSQL).
 
@@ -17,5 +19,10 @@ TV and Screen Details: Designed on Figma and exported as SVG.
 <p align="center">
 Design Details: Mid-Century Modern TV design.
 </p>
-<!-- add backend updates and friction points, preview README by (cmd + k) then v -->
+
+
+## current friction points
+<p align="center">
+- Currently having trouble loading existing data onto app's front-end, specifically getting a 502 error.
+</p>
 
