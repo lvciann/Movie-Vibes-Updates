@@ -20,7 +20,16 @@ TV and Screen Details: Designed on Figma and exported as SVG.
 Design Details: Mid-Century Modern TV design.
 </p>
 
+<!-- TODO: and frontend tech stack and tooling section-->
+
 ## back-end info
+<p align="center"> 
+Tech Stack and Tooling: Using FastAPI for speed and documentation automation, PostgreSQL for relational data storage, Docker for simplifying management of complex web stacks, SQLAlchemy for bridging the relational database and code, and Alembic for schema versioning. 
+</p>
+
+<p align="center">
+Architecture pattern: Layered endpoint-service-data structure.
+</p>
 
 ## current friction points
 <p align="center">
