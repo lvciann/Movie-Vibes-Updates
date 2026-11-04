@@ -7,11 +7,16 @@ Progress log for Movie Vibes, a full-stack media tracking application with retro
 <!-- TODO: include that errors occur when criteria not met, should probably include asterisks to signal to user that certain fields are required -->
 <p align="center">
 User can add media rows using left TV button. 
+</p> 
+<p align="center">
 <img src ="add_new.gif" alt="Adding new row" width="300" height="250"/>
 </p> 
 
+
 <p align="center">
 User can edit and delete media rows by clicking on row and following prompts. 
+</p> 
+<p align="center">
 <img src ="edit_remove.gif" alt="Adding new row" width="300" height="250"/>
 </p> 
 
